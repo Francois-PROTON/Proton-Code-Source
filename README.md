@@ -1,3 +1,4 @@
+![Bouclier de Protection](1769132605430.png)
 ​TITRE : GUIDE DE PROTECTION HUMAINE - ARCHITECTURE PROTON
 ​PRÉAMBULE
 Ce code n'est pas une simple marchandise technique. C'est un bouclier numérique. Il est distribué ici pour garantir que ton droit à la vie privée ne dépende pas de l'humeur d'une institution ou d'un gouvernement. En tant qu'Architecte, je traduis ce jargon pour que tu comprennes l'impact réel de ce que tu détiens.
